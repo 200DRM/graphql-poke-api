@@ -1,0 +1,10 @@
+.pokemon {
+  background-color: rgb(240, 240, 240);
+  margin: 2vw;
+  padding: 2vw;
+  text-align: center;
+}
+
+.pokemon-img {
+  width: 10em;
+}
